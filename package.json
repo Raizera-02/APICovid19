@@ -1,0 +1,17 @@
+{
+  "name": "covid19_teste",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Raizera-02/Covid19Teste.git",
+  "author": "Raí Oliveira dos Santos",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "private": null,
+  "dependencies": {
+    "axios": "^0.19.2",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2"
+  }
+}
